@@ -1,0 +1,15 @@
+/Users/nigelwilkins/Desktop/CodestackMain/CodestackOctober/gitHubProj/bin/Debug/net6.0/gitHubProj
+/Users/nigelwilkins/Desktop/CodestackMain/CodestackOctober/gitHubProj/bin/Debug/net6.0/gitHubProj.deps.json
+/Users/nigelwilkins/Desktop/CodestackMain/CodestackOctober/gitHubProj/bin/Debug/net6.0/gitHubProj.runtimeconfig.json
+/Users/nigelwilkins/Desktop/CodestackMain/CodestackOctober/gitHubProj/bin/Debug/net6.0/gitHubProj.dll
+/Users/nigelwilkins/Desktop/CodestackMain/CodestackOctober/gitHubProj/bin/Debug/net6.0/gitHubProj.pdb
+/Users/nigelwilkins/Desktop/CodestackMain/CodestackOctober/gitHubProj/obj/Debug/net6.0/gitHubProj.csproj.AssemblyReference.cache
+/Users/nigelwilkins/Desktop/CodestackMain/CodestackOctober/gitHubProj/obj/Debug/net6.0/gitHubProj.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nigelwilkins/Desktop/CodestackMain/CodestackOctober/gitHubProj/obj/Debug/net6.0/gitHubProj.AssemblyInfoInputs.cache
+/Users/nigelwilkins/Desktop/CodestackMain/CodestackOctober/gitHubProj/obj/Debug/net6.0/gitHubProj.AssemblyInfo.cs
+/Users/nigelwilkins/Desktop/CodestackMain/CodestackOctober/gitHubProj/obj/Debug/net6.0/gitHubProj.csproj.CoreCompileInputs.cache
+/Users/nigelwilkins/Desktop/CodestackMain/CodestackOctober/gitHubProj/obj/Debug/net6.0/gitHubProj.dll
+/Users/nigelwilkins/Desktop/CodestackMain/CodestackOctober/gitHubProj/obj/Debug/net6.0/refint/gitHubProj.dll
+/Users/nigelwilkins/Desktop/CodestackMain/CodestackOctober/gitHubProj/obj/Debug/net6.0/gitHubProj.pdb
+/Users/nigelwilkins/Desktop/CodestackMain/CodestackOctober/gitHubProj/obj/Debug/net6.0/gitHubProj.genruntimeconfig.cache
+/Users/nigelwilkins/Desktop/CodestackMain/CodestackOctober/gitHubProj/obj/Debug/net6.0/ref/gitHubProj.dll
