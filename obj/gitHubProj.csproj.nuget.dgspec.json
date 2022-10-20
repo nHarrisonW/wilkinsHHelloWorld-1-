@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/nigelwilkins/Desktop/CodestackMain/CodestackOctober/gitHubProj/gitHubProj.csproj": {}
+    "/Users/nigelwilkins/Desktop/CodestackMain/Homework/wilkinsHHelloWorld(1)/gitHubProj.csproj": {}
   },
   "projects": {
-    "/Users/nigelwilkins/Desktop/CodestackMain/CodestackOctober/gitHubProj/gitHubProj.csproj": {
+    "/Users/nigelwilkins/Desktop/CodestackMain/Homework/wilkinsHHelloWorld(1)/gitHubProj.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nigelwilkins/Desktop/CodestackMain/CodestackOctober/gitHubProj/gitHubProj.csproj",
+        "projectUniqueName": "/Users/nigelwilkins/Desktop/CodestackMain/Homework/wilkinsHHelloWorld(1)/gitHubProj.csproj",
         "projectName": "gitHubProj",
-        "projectPath": "/Users/nigelwilkins/Desktop/CodestackMain/CodestackOctober/gitHubProj/gitHubProj.csproj",
+        "projectPath": "/Users/nigelwilkins/Desktop/CodestackMain/Homework/wilkinsHHelloWorld(1)/gitHubProj.csproj",
         "packagesPath": "/Users/nigelwilkins/.nuget/packages/",
-        "outputPath": "/Users/nigelwilkins/Desktop/CodestackMain/CodestackOctober/gitHubProj/obj/",
+        "outputPath": "/Users/nigelwilkins/Desktop/CodestackMain/Homework/wilkinsHHelloWorld(1)/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/nigelwilkins/.nuget/NuGet/NuGet.Config"
